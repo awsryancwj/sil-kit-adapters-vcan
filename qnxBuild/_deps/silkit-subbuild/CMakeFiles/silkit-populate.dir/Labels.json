@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/_deps/silkit-subbuild/CMakeFiles/silkit-populate"
+		},
+		{
+			"file" : "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/_deps/silkit-subbuild/CMakeFiles/silkit-populate.rule"
+		},
+		{
+			"file" : "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/_deps/silkit-subbuild/CMakeFiles/silkit-populate-complete.rule"
+		},
+		{
+			"file" : "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/_deps/silkit-subbuild/silkit-populate-prefix/src/silkit-populate-stamp/silkit-populate-build.rule"
+		},
+		{
+			"file" : "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/_deps/silkit-subbuild/silkit-populate-prefix/src/silkit-populate-stamp/silkit-populate-configure.rule"
+		},
+		{
+			"file" : "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/_deps/silkit-subbuild/silkit-populate-prefix/src/silkit-populate-stamp/silkit-populate-download.rule"
+		},
+		{
+			"file" : "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/_deps/silkit-subbuild/silkit-populate-prefix/src/silkit-populate-stamp/silkit-populate-install.rule"
+		},
+		{
+			"file" : "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/_deps/silkit-subbuild/silkit-populate-prefix/src/silkit-populate-stamp/silkit-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/_deps/silkit-subbuild/silkit-populate-prefix/src/silkit-populate-stamp/silkit-populate-patch.rule"
+		},
+		{
+			"file" : "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/_deps/silkit-subbuild/silkit-populate-prefix/src/silkit-populate-stamp/silkit-populate-test.rule"
+		},
+		{
+			"file" : "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/_deps/silkit-subbuild/silkit-populate-prefix/src/silkit-populate-stamp/silkit-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"silkit-populate"
+		],
+		"name" : "silkit-populate"
+	}
+}

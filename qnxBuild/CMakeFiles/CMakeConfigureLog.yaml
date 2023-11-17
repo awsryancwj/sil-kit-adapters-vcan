@@ -1,0 +1,2246 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake:228 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The target system is: QNX -  - aarch64
+      The host system is: Linux - 5.4.0-1103-aws - x86_64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -c;--target=gcc_ntoaarch64le_gpp 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -Aa 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -D__CLASSIC_C__ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -c;--target=gcc_ntoaarch64le_gpp 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -Aa 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -D__CLASSIC_C__ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1144 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+      license check failed
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1144 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+      license check failed
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: -Wc,-std=c++14;-Wc,-std=c++14
+      Id flags: -c;--target=gcc_ntoaarch64le_gpp 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: -Wc,-std=c++14;-Wc,-std=c++14
+      Id flags:  
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: -Wc,-std=c++14;-Wc,-std=c++14
+      Id flags: -c 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: -Wc,-std=c++14;-Wc,-std=c++14
+      Id flags: --c++ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: -Wc,-std=c++14;-Wc,-std=c++14
+      Id flags: --ec++ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: -Wc,-std=c++14;-Wc,-std=c++14
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: -Wc,-std=c++14;-Wc,-std=c++14
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: 
+      Id flags: -c;--target=gcc_ntoaarch64le_gpp 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: 
+      Id flags: --c++ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: 
+      Id flags: --ec++ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: 
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: 
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1144 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+      license check failed
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1144 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+      license check failed
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-h3Mtc0"
+      binary: "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-h3Mtc0"
+    cmakeVariables:
+      CMAKE_CXX_COMPILER_TARGET: "gcc_ntoaarch64le_gpp"
+      CMAKE_C_COMPILER_TARGET: "gcc_ntoaarch64le_gpp"
+      CMAKE_C_FLAGS: ""
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-h3Mtc0'
+        
+        Run Build Command(s): /opt/cmake-3.28.0-rc4-linux-x86_64/bin/cmake -E env VERBOSE=1 /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/make -f Makefile cmTC_0c60a/fast
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/make  -f CMakeFiles/cmTC_0c60a.dir/build.make CMakeFiles/cmTC_0c60a.dir/build
+        make[1]: Entering directory '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-h3Mtc0'
+        Building C object CMakeFiles/cmTC_0c60a.dir/CMakeCCompilerABI.c.o
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc -D_QNX_SOURCE   -o CMakeFiles/cmTC_0c60a.dir/CMakeCCompilerABI.c.o -c /opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeCCompilerABI.c
+        license check failed
+        CMakeFiles/cmTC_0c60a.dir/build.make:77: recipe for target 'CMakeFiles/cmTC_0c60a.dir/CMakeCCompilerABI.c.o' failed
+        make[1]: *** [CMakeFiles/cmTC_0c60a.dir/CMakeCCompilerABI.c.o] Error 1
+        make[1]: Leaving directory '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-h3Mtc0'
+        Makefile:127: recipe for target 'cmTC_0c60a/fast' failed
+        make: *** [cmTC_0c60a/fast] Error 2
+        
+      exitCode: 2
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:56 (try_compile)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Check for working C compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc"
+    directories:
+      source: "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-w7BMSW"
+      binary: "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-w7BMSW"
+    cmakeVariables:
+      CMAKE_CXX_COMPILER_TARGET: "gcc_ntoaarch64le_gpp"
+      CMAKE_C_COMPILER_TARGET: "gcc_ntoaarch64le_gpp"
+      CMAKE_C_FLAGS: ""
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_C_COMPILER_WORKS"
+      cached: true
+      stdout: |
+        Change Dir: '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-w7BMSW'
+        
+        Run Build Command(s): /opt/cmake-3.28.0-rc4-linux-x86_64/bin/cmake -E env VERBOSE=1 /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/make -f Makefile cmTC_54d11/fast
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/make  -f CMakeFiles/cmTC_54d11.dir/build.make CMakeFiles/cmTC_54d11.dir/build
+        make[1]: Entering directory '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-w7BMSW'
+        Building C object CMakeFiles/cmTC_54d11.dir/testCCompiler.c.o
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc -D_QNX_SOURCE   -o CMakeFiles/cmTC_54d11.dir/testCCompiler.c.o -c /home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-w7BMSW/testCCompiler.c
+        license check failed
+        CMakeFiles/cmTC_54d11.dir/build.make:77: recipe for target 'CMakeFiles/cmTC_54d11.dir/testCCompiler.c.o' failed
+        make[1]: *** [CMakeFiles/cmTC_54d11.dir/testCCompiler.c.o] Error 1
+        make[1]: Leaving directory '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-w7BMSW'
+        Makefile:127: recipe for target 'cmTC_54d11/fast' failed
+        make: *** [cmTC_54d11/fast] Error 2
+        
+      exitCode: 2
+...
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -c;--target=gcc_ntoaarch64le_gpp 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -Aa 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -D__CLASSIC_C__ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -c;--target=gcc_ntoaarch64le_gpp 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -Aa 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -D__CLASSIC_C__ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1144 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+      license check failed
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1144 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+      license check failed
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: -Wc,-std=c++14
+      Id flags: -c;--target=gcc_ntoaarch64le_gpp 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: -Wc,-std=c++14
+      Id flags:  
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: -Wc,-std=c++14
+      Id flags: -c 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: -Wc,-std=c++14
+      Id flags: --c++ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: -Wc,-std=c++14
+      Id flags: --ec++ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: -Wc,-std=c++14
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: -Wc,-std=c++14
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: 
+      Id flags: -c;--target=gcc_ntoaarch64le_gpp 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: 
+      Id flags: --c++ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: 
+      Id flags: --ec++ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: 
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: 
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1144 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+      license check failed
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1144 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+      license check failed
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-vMRBPO"
+      binary: "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-vMRBPO"
+    cmakeVariables:
+      CMAKE_CXX_COMPILER_TARGET: "gcc_ntoaarch64le_gpp"
+      CMAKE_C_COMPILER_TARGET: "gcc_ntoaarch64le_gpp"
+      CMAKE_C_FLAGS: ""
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-vMRBPO'
+        
+        Run Build Command(s): /opt/cmake-3.28.0-rc4-linux-x86_64/bin/cmake -E env VERBOSE=1 /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/make -f Makefile cmTC_d990e/fast
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/make  -f CMakeFiles/cmTC_d990e.dir/build.make CMakeFiles/cmTC_d990e.dir/build
+        make[1]: Entering directory '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-vMRBPO'
+        Building C object CMakeFiles/cmTC_d990e.dir/CMakeCCompilerABI.c.o
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc -D_QNX_SOURCE   -o CMakeFiles/cmTC_d990e.dir/CMakeCCompilerABI.c.o -c /opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeCCompilerABI.c
+        license check failed
+        CMakeFiles/cmTC_d990e.dir/build.make:77: recipe for target 'CMakeFiles/cmTC_d990e.dir/CMakeCCompilerABI.c.o' failed
+        make[1]: *** [CMakeFiles/cmTC_d990e.dir/CMakeCCompilerABI.c.o] Error 1
+        make[1]: Leaving directory '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-vMRBPO'
+        Makefile:127: recipe for target 'cmTC_d990e/fast' failed
+        make: *** [cmTC_d990e/fast] Error 2
+        
+      exitCode: 2
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:56 (try_compile)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Check for working C compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc"
+    directories:
+      source: "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-6O6kRu"
+      binary: "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-6O6kRu"
+    cmakeVariables:
+      CMAKE_CXX_COMPILER_TARGET: "gcc_ntoaarch64le_gpp"
+      CMAKE_C_COMPILER_TARGET: "gcc_ntoaarch64le_gpp"
+      CMAKE_C_FLAGS: ""
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_C_COMPILER_WORKS"
+      cached: true
+      stdout: |
+        Change Dir: '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-6O6kRu'
+        
+        Run Build Command(s): /opt/cmake-3.28.0-rc4-linux-x86_64/bin/cmake -E env VERBOSE=1 /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/make -f Makefile cmTC_14861/fast
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/make  -f CMakeFiles/cmTC_14861.dir/build.make CMakeFiles/cmTC_14861.dir/build
+        make[1]: Entering directory '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-6O6kRu'
+        Building C object CMakeFiles/cmTC_14861.dir/testCCompiler.c.o
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc -D_QNX_SOURCE   -o CMakeFiles/cmTC_14861.dir/testCCompiler.c.o -c /home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-6O6kRu/testCCompiler.c
+        license check failed
+        CMakeFiles/cmTC_14861.dir/build.make:77: recipe for target 'CMakeFiles/cmTC_14861.dir/testCCompiler.c.o' failed
+        make[1]: *** [CMakeFiles/cmTC_14861.dir/testCCompiler.c.o] Error 1
+        make[1]: Leaving directory '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-6O6kRu'
+        Makefile:127: recipe for target 'cmTC_14861/fast' failed
+        make: *** [cmTC_14861/fast] Error 2
+        
+      exitCode: 2
+...
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -c;--target=gcc_ntoaarch64le_gpp 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -Aa 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -D__CLASSIC_C__ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -c;--target=gcc_ntoaarch64le_gpp 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -Aa 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -D__CLASSIC_C__ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1144 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+      license check failed
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1144 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+      license check failed
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: -Wc,-std=c++14
+      Id flags: -c;--target=gcc_ntoaarch64le_gpp 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: -Wc,-std=c++14
+      Id flags:  
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: -Wc,-std=c++14
+      Id flags: -c 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: -Wc,-std=c++14
+      Id flags: --c++ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: -Wc,-std=c++14
+      Id flags: --ec++ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: -Wc,-std=c++14
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: -Wc,-std=c++14
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: 
+      Id flags: -c;--target=gcc_ntoaarch64le_gpp 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: 
+      Id flags: --c++ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: 
+      Id flags: --ec++ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: 
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: 
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      1
+      license check failed
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1144 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+      license check failed
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1144 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+      license check failed
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-I9E98q"
+      binary: "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-I9E98q"
+    cmakeVariables:
+      CMAKE_CXX_COMPILER_TARGET: "gcc_ntoaarch64le_gpp"
+      CMAKE_C_COMPILER_TARGET: "gcc_ntoaarch64le_gpp"
+      CMAKE_C_FLAGS: ""
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-I9E98q'
+        
+        Run Build Command(s): /opt/cmake-3.28.0-rc4-linux-x86_64/bin/cmake -E env VERBOSE=1 /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/make -f Makefile cmTC_8c7db/fast
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/make  -f CMakeFiles/cmTC_8c7db.dir/build.make CMakeFiles/cmTC_8c7db.dir/build
+        make[1]: Entering directory '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-I9E98q'
+        Building C object CMakeFiles/cmTC_8c7db.dir/CMakeCCompilerABI.c.o
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc -D_QNX_SOURCE   -o CMakeFiles/cmTC_8c7db.dir/CMakeCCompilerABI.c.o -c /opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeCCompilerABI.c
+        license check failed
+        CMakeFiles/cmTC_8c7db.dir/build.make:77: recipe for target 'CMakeFiles/cmTC_8c7db.dir/CMakeCCompilerABI.c.o' failed
+        make[1]: *** [CMakeFiles/cmTC_8c7db.dir/CMakeCCompilerABI.c.o] Error 1
+        make[1]: Leaving directory '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-I9E98q'
+        Makefile:127: recipe for target 'cmTC_8c7db/fast' failed
+        make: *** [cmTC_8c7db/fast] Error 2
+        
+      exitCode: 2
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:56 (try_compile)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Check for working C compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc"
+    directories:
+      source: "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-YfGQQU"
+      binary: "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-YfGQQU"
+    cmakeVariables:
+      CMAKE_CXX_COMPILER_TARGET: "gcc_ntoaarch64le_gpp"
+      CMAKE_C_COMPILER_TARGET: "gcc_ntoaarch64le_gpp"
+      CMAKE_C_FLAGS: ""
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_C_COMPILER_WORKS"
+      cached: true
+      stdout: |
+        Change Dir: '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-YfGQQU'
+        
+        Run Build Command(s): /opt/cmake-3.28.0-rc4-linux-x86_64/bin/cmake -E env VERBOSE=1 /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/make -f Makefile cmTC_3c70e/fast
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/make  -f CMakeFiles/cmTC_3c70e.dir/build.make CMakeFiles/cmTC_3c70e.dir/build
+        make[1]: Entering directory '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-YfGQQU'
+        Building C object CMakeFiles/cmTC_3c70e.dir/testCCompiler.c.o
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc -D_QNX_SOURCE   -o CMakeFiles/cmTC_3c70e.dir/testCCompiler.c.o -c /home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-YfGQQU/testCCompiler.c
+        license check failed
+        CMakeFiles/cmTC_3c70e.dir/build.make:77: recipe for target 'CMakeFiles/cmTC_3c70e.dir/testCCompiler.c.o' failed
+        make[1]: *** [CMakeFiles/cmTC_3c70e.dir/testCCompiler.c.o] Error 1
+        make[1]: Leaving directory '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-YfGQQU'
+        Makefile:127: recipe for target 'cmTC_3c70e/fast' failed
+        make: *** [cmTC_3c70e/fast] Error 2
+        
+      exitCode: 2
+...
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags: -c;--target=gcc_ntoaarch64le_gpp 
+      
+      The output was:
+      1
+      cc: unknown option: '--target=gcc_ntoaarch64le_gpp'
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+      
+      The C compiler identification is GNU, found in:
+        /home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/3.28.0-rc4/CompilerIdC/a.out
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: -Wc,-std=c++14
+      Id flags: -c;--target=gcc_ntoaarch64le_gpp 
+      
+      The output was:
+      1
+      cc: unknown option: '--target=gcc_ntoaarch64le_gpp'
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ 
+      Build flags: -Wc,-std=c++14
+      Id flags:  
+      
+      The output was:
+      0
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+      
+      The CXX compiler identification is GNU, found in:
+        /home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/3.28.0-rc4/CompilerIdCXX/a.out
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-DBzn8i"
+      binary: "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-DBzn8i"
+    cmakeVariables:
+      CMAKE_CXX_COMPILER_TARGET: "gcc_ntoaarch64le_gpp"
+      CMAKE_C_COMPILER_TARGET: "gcc_ntoaarch64le_gpp"
+      CMAKE_C_FLAGS: ""
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-DBzn8i'
+        
+        Run Build Command(s): /opt/cmake-3.28.0-rc4-linux-x86_64/bin/cmake -E env VERBOSE=1 /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/make -f Makefile cmTC_f1a4e/fast
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/make  -f CMakeFiles/cmTC_f1a4e.dir/build.make CMakeFiles/cmTC_f1a4e.dir/build
+        make[1]: Entering directory '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-DBzn8i'
+        Building C object CMakeFiles/cmTC_f1a4e.dir/CMakeCCompilerABI.c.o
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc -Vgcc_ntoaarch64le_gpp -D_QNX_SOURCE  -v -Wp,-MD,CMakeFiles/cmTC_f1a4e.dir/CMakeCCompilerABI.c.o.d -Wp,-MT,CMakeFiles/cmTC_f1a4e.dir/CMakeCCompilerABI.c.o -Wp,-MF,CMakeFiles/cmTC_f1a4e.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_f1a4e.dir/CMakeCCompilerABI.c.o -c /opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeCCompilerABI.c
+        cc: looking for gcc_ntoaarch64le_gpp in /home/ubuntu/qnx710/host/linux/x86_64/etc/qcc/gcc/8.3.0/gcc_ntoaarch64le_gpp++.conf
+        cc: looking for gcc_ntoaarch64le_gpp in /home/ubuntu/qnx710/host/linux/x86_64/etc/qcc/gcc/8.3.0/gcc_ntoaarch64le_gpp.conf
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/cc1 -D_QNX_SOURCE -quiet -fstack-protector-strong -march=armv8-a -nostdinc -D__LANGUAGE_C -D_LANGUAGE_C -D__QNX__ -D__QNXNTO__ -D__GNUC__=8 -D__GNUC_MINOR__=3 -D__GNUC_PATCHLEVEL__=0 -D__unix__ -D__unix -D__ELF__ -fPIE -D__LITTLEENDIAN__ -Asystem(unix) -MD CMakeFiles/cmTC_f1a4e.dir/CMakeCCompilerABI.c.o.d -MT CMakeFiles/cmTC_f1a4e.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_f1a4e.dir/CMakeCCompilerABI.c.o.d -isystem /home/ubuntu/qnx710/target/qnx7/usr/include -isystem /home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/include /opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeCCompilerABI.c -dumpbase /opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeCCompilerABI.c -o - | \\
+         /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/aarch64-unknown-nto-qnx7.1.0-as -EL -o CMakeFiles/cmTC_f1a4e.dir/CMakeCCompilerABI.c.o
+        Linking C executable cmTC_f1a4e
+        /opt/cmake-3.28.0-rc4-linux-x86_64/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f1a4e.dir/link.txt --verbose=1
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc -Vgcc_ntoaarch64le_gpp  -v CMakeFiles/cmTC_f1a4e.dir/CMakeCCompilerABI.c.o -o cmTC_f1a4e  -lsocket 
+        cc: looking for gcc_ntoaarch64le_gpp in /home/ubuntu/qnx710/host/linux/x86_64/etc/qcc/gcc/8.3.0/gcc_ntoaarch64le_gpp++.conf
+        cc: looking for gcc_ntoaarch64le_gpp in /home/ubuntu/qnx710/host/linux/x86_64/etc/qcc/gcc/8.3.0/gcc_ntoaarch64le_gpp.conf
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/aarch64-unknown-nto-qnx7.1.0-ld -plugin=/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/liblto_plugin.so -plugin-opt=/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/lto-wrapper -plugin-opt=-fresolution=/tmp/filejrOLKo_qcc_18657/tmp_qcc_18657.res --dynamic-linker /usr/lib/ldqnx-64.so.2 --sysroot=/home/ubuntu/qnx710/target/qnx7/aarch64le/ --hash-style=gnu --build-id=md5 --warn-shared-textrel -zrelro -znow -pie --eh-frame-hdr /home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crt1.o /home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crti.o /home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0//crtbegin.o CMakeFiles/cmTC_f1a4e.dir/CMakeCCompilerABI.c.o -lsocket -o cmTC_f1a4e -rpath-link /home/ubuntu/qnx710/target/qnx7/aarch64le/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/gcc/8.3.0:/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib -Y/home/ubuntu/qnx710/target/qnx7/aarch64le/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib -L/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0 -L/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/gcc/8.3.0 -L/home/ubuntu/qnx710/target/qnx7/usr/aarch64-unknown-nto-qnx7.1.0/lib -L/home/ubuntu/qnx710/target/qnx7/aarch64le/lib -L/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib -L/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib -lc -lcS -lgcc_s -lgcc_eh /home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0//crtend.o /home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crtn.o
+        cc: unlinking /tmp/filejrOLKo_qcc_18657/tmp_qcc_18657.res
+        cc: removing  /tmp/filejrOLKo_qcc_18657
+        make[1]: Leaving directory '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-DBzn8i'
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:127 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed C implicit include dir info: rv=start
+        warn: unable to parse implicit include dirs!
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:159 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed C implicit link information:
+        link line regex: [^( *|.*[/\\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        ignore line: [Change Dir: '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-DBzn8i']
+        ignore line: []
+        ignore line: [Run Build Command(s): /opt/cmake-3.28.0-rc4-linux-x86_64/bin/cmake -E env VERBOSE=1 /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/make -f Makefile cmTC_f1a4e/fast]
+        ignore line: [/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/make  -f CMakeFiles/cmTC_f1a4e.dir/build.make CMakeFiles/cmTC_f1a4e.dir/build]
+        ignore line: [make[1]: Entering directory '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-DBzn8i']
+        ignore line: [Building C object CMakeFiles/cmTC_f1a4e.dir/CMakeCCompilerABI.c.o]
+        ignore line: [/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc -Vgcc_ntoaarch64le_gpp -D_QNX_SOURCE  -v -Wp -MD CMakeFiles/cmTC_f1a4e.dir/CMakeCCompilerABI.c.o.d -Wp -MT CMakeFiles/cmTC_f1a4e.dir/CMakeCCompilerABI.c.o -Wp -MF CMakeFiles/cmTC_f1a4e.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_f1a4e.dir/CMakeCCompilerABI.c.o -c /opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeCCompilerABI.c]
+        ignore line: [cc: looking for gcc_ntoaarch64le_gpp in /home/ubuntu/qnx710/host/linux/x86_64/etc/qcc/gcc/8.3.0/gcc_ntoaarch64le_gpp++.conf]
+        ignore line: [cc: looking for gcc_ntoaarch64le_gpp in /home/ubuntu/qnx710/host/linux/x86_64/etc/qcc/gcc/8.3.0/gcc_ntoaarch64le_gpp.conf]
+        ignore line: [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/cc1 -D_QNX_SOURCE -quiet -fstack-protector-strong -march=armv8-a -nostdinc -D__LANGUAGE_C -D_LANGUAGE_C -D__QNX__ -D__QNXNTO__ -D__GNUC__=8 -D__GNUC_MINOR__=3 -D__GNUC_PATCHLEVEL__=0 -D__unix__ -D__unix -D__ELF__ -fPIE -D__LITTLEENDIAN__ -Asystem(unix) -MD CMakeFiles/cmTC_f1a4e.dir/CMakeCCompilerABI.c.o.d -MT CMakeFiles/cmTC_f1a4e.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_f1a4e.dir/CMakeCCompilerABI.c.o.d -isystem /home/ubuntu/qnx710/target/qnx7/usr/include -isystem /home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/include /opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeCCompilerABI.c -dumpbase /opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeCCompilerABI.c -o - | ; /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/aarch64-unknown-nto-qnx7.1.0-as -EL -o CMakeFiles/cmTC_f1a4e.dir/CMakeCCompilerABI.c.o]
+        ignore line: [Linking C executable cmTC_f1a4e]
+        ignore line: [/opt/cmake-3.28.0-rc4-linux-x86_64/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f1a4e.dir/link.txt --verbose=1]
+        ignore line: [/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc -Vgcc_ntoaarch64le_gpp  -v CMakeFiles/cmTC_f1a4e.dir/CMakeCCompilerABI.c.o -o cmTC_f1a4e  -lsocket ]
+        ignore line: [cc: looking for gcc_ntoaarch64le_gpp in /home/ubuntu/qnx710/host/linux/x86_64/etc/qcc/gcc/8.3.0/gcc_ntoaarch64le_gpp++.conf]
+        ignore line: [cc: looking for gcc_ntoaarch64le_gpp in /home/ubuntu/qnx710/host/linux/x86_64/etc/qcc/gcc/8.3.0/gcc_ntoaarch64le_gpp.conf]
+        link line: [/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/aarch64-unknown-nto-qnx7.1.0-ld -plugin=/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/liblto_plugin.so -plugin-opt=/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/lto-wrapper -plugin-opt=-fresolution=/tmp/filejrOLKo_qcc_18657/tmp_qcc_18657.res --dynamic-linker /usr/lib/ldqnx-64.so.2 --sysroot=/home/ubuntu/qnx710/target/qnx7/aarch64le/ --hash-style=gnu --build-id=md5 --warn-shared-textrel -zrelro -znow -pie --eh-frame-hdr /home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crt1.o /home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crti.o /home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0//crtbegin.o CMakeFiles/cmTC_f1a4e.dir/CMakeCCompilerABI.c.o -lsocket -o cmTC_f1a4e -rpath-link /home/ubuntu/qnx710/target/qnx7/aarch64le/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/gcc/8.3.0:/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib -Y/home/ubuntu/qnx710/target/qnx7/aarch64le/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib -L/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0 -L/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/gcc/8.3.0 -L/home/ubuntu/qnx710/target/qnx7/usr/aarch64-unknown-nto-qnx7.1.0/lib -L/home/ubuntu/qnx710/target/qnx7/aarch64le/lib -L/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib -L/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib -lc -lcS -lgcc_s -lgcc_eh /home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0//crtend.o /home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crtn.o]
+          arg [/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/aarch64-unknown-nto-qnx7.1.0-ld] ==> ignore
+          arg [-plugin=/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/liblto_plugin.so] ==> ignore
+          arg [-plugin-opt=/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/lto-wrapper] ==> ignore
+          arg [-plugin-opt=-fresolution=/tmp/filejrOLKo_qcc_18657/tmp_qcc_18657.res] ==> ignore
+          arg [--dynamic-linker] ==> ignore
+          arg [/usr/lib/ldqnx-64.so.2] ==> ignore
+          arg [--sysroot=/home/ubuntu/qnx710/target/qnx7/aarch64le/] ==> ignore
+          arg [--hash-style=gnu] ==> ignore
+          arg [--build-id=md5] ==> ignore
+          arg [--warn-shared-textrel] ==> ignore
+          arg [-zrelro] ==> ignore
+          arg [-znow] ==> ignore
+          arg [-pie] ==> ignore
+          arg [--eh-frame-hdr] ==> ignore
+          arg [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crt1.o] ==> obj [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crt1.o]
+          arg [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crti.o] ==> obj [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crti.o]
+          arg [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0//crtbegin.o] ==> obj [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0//crtbegin.o]
+          arg [CMakeFiles/cmTC_f1a4e.dir/CMakeCCompilerABI.c.o] ==> ignore
+          arg [-lsocket] ==> lib [socket]
+          arg [-o] ==> ignore
+          arg [cmTC_f1a4e] ==> ignore
+          arg [-rpath-link] ==> ignore
+          arg [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/gcc/8.3.0:/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib] ==> ignore
+          arg [-Y/home/ubuntu/qnx710/target/qnx7/aarch64le/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib] ==> dirs [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib;/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib;/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib]
+          arg [-L/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0] ==> dir [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0]
+          arg [-L/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/gcc/8.3.0] ==> dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/gcc/8.3.0]
+          arg [-L/home/ubuntu/qnx710/target/qnx7/usr/aarch64-unknown-nto-qnx7.1.0/lib] ==> dir [/home/ubuntu/qnx710/target/qnx7/usr/aarch64-unknown-nto-qnx7.1.0/lib]
+          arg [-L/home/ubuntu/qnx710/target/qnx7/aarch64le/lib] ==> dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib]
+          arg [-L/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib] ==> dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib]
+          arg [-L/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib] ==> dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib]
+          arg [-lc] ==> lib [c]
+          arg [-lcS] ==> lib [cS]
+          arg [-lgcc_s] ==> lib [gcc_s]
+          arg [-lgcc_eh] ==> lib [gcc_eh]
+          arg [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0//crtend.o] ==> obj [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0//crtend.o]
+          arg [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crtn.o] ==> obj [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crtn.o]
+        remove lib [gcc_eh]
+        collapse obj [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0//crtbegin.o] ==> [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/crtbegin.o]
+        collapse obj [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0//crtend.o] ==> [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/crtend.o]
+        collapse library dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib] ==> [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib]
+        collapse library dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib] ==> [/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib]
+        collapse library dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib] ==> [/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib]
+        collapse library dir [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0] ==> [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0]
+        collapse library dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/gcc/8.3.0] ==> [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/gcc/8.3.0]
+        collapse library dir [/home/ubuntu/qnx710/target/qnx7/usr/aarch64-unknown-nto-qnx7.1.0/lib] ==> [/home/ubuntu/qnx710/target/qnx7/usr/aarch64-unknown-nto-qnx7.1.0/lib]
+        collapse library dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib] ==> [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib]
+        collapse library dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib] ==> [/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib]
+        collapse library dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib] ==> [/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib]
+        implicit libs: [socket;c;cS;gcc_s]
+        implicit objs: [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crt1.o;/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crti.o;/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/crtbegin.o;/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/crtend.o;/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crtn.o]
+        implicit dirs: [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib;/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib;/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib;/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0;/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/gcc/8.3.0;/home/ubuntu/qnx710/target/qnx7/usr/aarch64-unknown-nto-qnx7.1.0/lib]
+        implicit fwks: []
+      
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-WuL87p"
+      binary: "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-WuL87p"
+    cmakeVariables:
+      CMAKE_CXX_COMPILER_TARGET: "gcc_ntoaarch64le_gpp"
+      CMAKE_CXX_FLAGS: " -Wc,-std=c++14"
+      CMAKE_C_COMPILER_TARGET: "gcc_ntoaarch64le_gpp"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-WuL87p'
+        
+        Run Build Command(s): /opt/cmake-3.28.0-rc4-linux-x86_64/bin/cmake -E env VERBOSE=1 /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/make -f Makefile cmTC_81124/fast
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/make  -f CMakeFiles/cmTC_81124.dir/build.make CMakeFiles/cmTC_81124.dir/build
+        make[1]: Entering directory '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-WuL87p'
+        Building CXX object CMakeFiles/cmTC_81124.dir/CMakeCXXCompilerABI.cpp.o
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ -Vgcc_ntoaarch64le_gpp -lang-c++ -D_QNX_SOURCE  -Wc,-std=c++14    -v -Wp,-MD,CMakeFiles/cmTC_81124.dir/CMakeCXXCompilerABI.cpp.o.d -Wp,-MT,CMakeFiles/cmTC_81124.dir/CMakeCXXCompilerABI.cpp.o -Wp,-MF,CMakeFiles/cmTC_81124.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_81124.dir/CMakeCXXCompilerABI.cpp.o -c /opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp
+        cc: looking for gcc_ntoaarch64le_gpp in /home/ubuntu/qnx710/host/linux/x86_64/etc/qcc/gcc/8.3.0/gcc_ntoaarch64le_gpp++.conf
+        cc: looking for gcc_ntoaarch64le_gpp in /home/ubuntu/qnx710/host/linux/x86_64/etc/qcc/gcc/8.3.0/gcc_ntoaarch64le_gpp.conf
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/cc1plus -D_QNX_SOURCE -quiet -fstack-protector-strong -march=armv8-a -nostdinc -nostdinc++ -std=gnu++11 -D__QNX__ -D__QNXNTO__ -D__GNUC__=8 -D__GNUC_MINOR__=3 -D__GNUC_PATCHLEVEL__=0 -D__NO_INLINE__ -D__DEPRECATED -D__unix__ -D__unix -D__ELF__ -fPIE -D__LITTLEENDIAN__ -Asystem(unix) -std=c++14 -MD CMakeFiles/cmTC_81124.dir/CMakeCXXCompilerABI.cpp.o.d -MT CMakeFiles/cmTC_81124.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_81124.dir/CMakeCXXCompilerABI.cpp.o.d -isystem /home/ubuntu/qnx710/target/qnx7/usr/include/c++/8.3.0 -isystem /home/ubuntu/qnx710/target/qnx7/usr/include/c++/8.3.0/aarch64-unknown-nto-qnx7.1.0 -isystem /home/ubuntu/qnx710/target/qnx7/usr/include/c++/8.3.0/backward -isystem /home/ubuntu/qnx710/target/qnx7/usr/include -isystem /home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/include -isystem /home/ubuntu/qnx710/target/qnx7/usr/aarch64-unknown-nto-qnx7.1.0/include -idirafter /home/ubuntu/qnx710/target/qnx7/usr/include -isystem /home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/include /opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp -dumpbase /opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp -o - | \\
+         /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/aarch64-unknown-nto-qnx7.1.0-as -EL -o CMakeFiles/cmTC_81124.dir/CMakeCXXCompilerABI.cpp.o
+        Linking CXX executable cmTC_81124
+        /opt/cmake-3.28.0-rc4-linux-x86_64/bin/cmake -E cmake_link_script CMakeFiles/cmTC_81124.dir/link.txt --verbose=1
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ -Vgcc_ntoaarch64le_gpp -lang-c++  -Wc,-std=c++14   -v CMakeFiles/cmTC_81124.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_81124  -lsocket 
+        cc: looking for gcc_ntoaarch64le_gpp in /home/ubuntu/qnx710/host/linux/x86_64/etc/qcc/gcc/8.3.0/gcc_ntoaarch64le_gpp++.conf
+        cc: looking for gcc_ntoaarch64le_gpp in /home/ubuntu/qnx710/host/linux/x86_64/etc/qcc/gcc/8.3.0/gcc_ntoaarch64le_gpp.conf
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/aarch64-unknown-nto-qnx7.1.0-ld -plugin=/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/liblto_plugin.so -plugin-opt=/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/lto-wrapper -plugin-opt=-fresolution=/tmp/fileTNjWdl_qcc_18672/tmp_qcc_18672.res --dynamic-linker /usr/lib/ldqnx-64.so.2 --sysroot=/home/ubuntu/qnx710/target/qnx7/aarch64le/ --hash-style=gnu --build-id=md5 --warn-shared-textrel -zrelro -znow -pie --eh-frame-hdr /home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crt1.o /home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crti.o /home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0//crtbegin.o CMakeFiles/cmTC_81124.dir/CMakeCXXCompilerABI.cpp.o -lsocket -o cmTC_81124 -rpath-link /home/ubuntu/qnx710/target/qnx7/aarch64le/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/gcc/8.3.0:/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib -Y/home/ubuntu/qnx710/target/qnx7/aarch64le/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib -L/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/ -L/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/gcc/8.3.0 -L/home/ubuntu/qnx710/target/qnx7/usr/aarch64-unknown-nto-qnx7.1.0/lib/ -L/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/ -L/home/ubuntu/qnx710/target/qnx7/aarch64le/lib -L/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib -L/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib -lstdc++ -lm -lc -lcS -lgcc_s -lgcc_eh /home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0//crtend.o /home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crtn.o
+        cc: unlinking /tmp/fileTNjWdl_qcc_18672/tmp_qcc_18672.res
+        cc: removing  /tmp/fileTNjWdl_qcc_18672
+        make[1]: Leaving directory '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-WuL87p'
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:127 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed CXX implicit include dir info: rv=start
+        warn: unable to parse implicit include dirs!
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:159 (message)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        ignore line: [Change Dir: '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-WuL87p']
+        ignore line: []
+        ignore line: [Run Build Command(s): /opt/cmake-3.28.0-rc4-linux-x86_64/bin/cmake -E env VERBOSE=1 /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/make -f Makefile cmTC_81124/fast]
+        ignore line: [/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/make  -f CMakeFiles/cmTC_81124.dir/build.make CMakeFiles/cmTC_81124.dir/build]
+        ignore line: [make[1]: Entering directory '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-WuL87p']
+        ignore line: [Building CXX object CMakeFiles/cmTC_81124.dir/CMakeCXXCompilerABI.cpp.o]
+        ignore line: [/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ -Vgcc_ntoaarch64le_gpp -lang-c++ -D_QNX_SOURCE  -Wc -std=c++14    -v -Wp -MD CMakeFiles/cmTC_81124.dir/CMakeCXXCompilerABI.cpp.o.d -Wp -MT CMakeFiles/cmTC_81124.dir/CMakeCXXCompilerABI.cpp.o -Wp -MF CMakeFiles/cmTC_81124.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_81124.dir/CMakeCXXCompilerABI.cpp.o -c /opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [cc: looking for gcc_ntoaarch64le_gpp in /home/ubuntu/qnx710/host/linux/x86_64/etc/qcc/gcc/8.3.0/gcc_ntoaarch64le_gpp++.conf]
+        ignore line: [cc: looking for gcc_ntoaarch64le_gpp in /home/ubuntu/qnx710/host/linux/x86_64/etc/qcc/gcc/8.3.0/gcc_ntoaarch64le_gpp.conf]
+        ignore line: [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/cc1plus -D_QNX_SOURCE -quiet -fstack-protector-strong -march=armv8-a -nostdinc -nostdinc++ -std=gnu++11 -D__QNX__ -D__QNXNTO__ -D__GNUC__=8 -D__GNUC_MINOR__=3 -D__GNUC_PATCHLEVEL__=0 -D__NO_INLINE__ -D__DEPRECATED -D__unix__ -D__unix -D__ELF__ -fPIE -D__LITTLEENDIAN__ -Asystem(unix) -std=c++14 -MD CMakeFiles/cmTC_81124.dir/CMakeCXXCompilerABI.cpp.o.d -MT CMakeFiles/cmTC_81124.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_81124.dir/CMakeCXXCompilerABI.cpp.o.d -isystem /home/ubuntu/qnx710/target/qnx7/usr/include/c++/8.3.0 -isystem /home/ubuntu/qnx710/target/qnx7/usr/include/c++/8.3.0/aarch64-unknown-nto-qnx7.1.0 -isystem /home/ubuntu/qnx710/target/qnx7/usr/include/c++/8.3.0/backward -isystem /home/ubuntu/qnx710/target/qnx7/usr/include -isystem /home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/include -isystem /home/ubuntu/qnx710/target/qnx7/usr/aarch64-unknown-nto-qnx7.1.0/include -idirafter /home/ubuntu/qnx710/target/qnx7/usr/include -isystem /home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/include /opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp -dumpbase /opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp -o - | ; /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/aarch64-unknown-nto-qnx7.1.0-as -EL -o CMakeFiles/cmTC_81124.dir/CMakeCXXCompilerABI.cpp.o]
+        ignore line: [Linking CXX executable cmTC_81124]
+        ignore line: [/opt/cmake-3.28.0-rc4-linux-x86_64/bin/cmake -E cmake_link_script CMakeFiles/cmTC_81124.dir/link.txt --verbose=1]
+        ignore line: [/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ -Vgcc_ntoaarch64le_gpp -lang-c++  -Wc -std=c++14   -v CMakeFiles/cmTC_81124.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_81124  -lsocket ]
+        ignore line: [cc: looking for gcc_ntoaarch64le_gpp in /home/ubuntu/qnx710/host/linux/x86_64/etc/qcc/gcc/8.3.0/gcc_ntoaarch64le_gpp++.conf]
+        ignore line: [cc: looking for gcc_ntoaarch64le_gpp in /home/ubuntu/qnx710/host/linux/x86_64/etc/qcc/gcc/8.3.0/gcc_ntoaarch64le_gpp.conf]
+        link line: [/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/aarch64-unknown-nto-qnx7.1.0-ld -plugin=/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/liblto_plugin.so -plugin-opt=/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/lto-wrapper -plugin-opt=-fresolution=/tmp/fileTNjWdl_qcc_18672/tmp_qcc_18672.res --dynamic-linker /usr/lib/ldqnx-64.so.2 --sysroot=/home/ubuntu/qnx710/target/qnx7/aarch64le/ --hash-style=gnu --build-id=md5 --warn-shared-textrel -zrelro -znow -pie --eh-frame-hdr /home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crt1.o /home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crti.o /home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0//crtbegin.o CMakeFiles/cmTC_81124.dir/CMakeCXXCompilerABI.cpp.o -lsocket -o cmTC_81124 -rpath-link /home/ubuntu/qnx710/target/qnx7/aarch64le/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/gcc/8.3.0:/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib -Y/home/ubuntu/qnx710/target/qnx7/aarch64le/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib -L/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/ -L/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/gcc/8.3.0 -L/home/ubuntu/qnx710/target/qnx7/usr/aarch64-unknown-nto-qnx7.1.0/lib/ -L/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/ -L/home/ubuntu/qnx710/target/qnx7/aarch64le/lib -L/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib -L/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib -lstdc++ -lm -lc -lcS -lgcc_s -lgcc_eh /home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0//crtend.o /home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crtn.o]
+          arg [/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/aarch64-unknown-nto-qnx7.1.0-ld] ==> ignore
+          arg [-plugin=/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/liblto_plugin.so] ==> ignore
+          arg [-plugin-opt=/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/lto-wrapper] ==> ignore
+          arg [-plugin-opt=-fresolution=/tmp/fileTNjWdl_qcc_18672/tmp_qcc_18672.res] ==> ignore
+          arg [--dynamic-linker] ==> ignore
+          arg [/usr/lib/ldqnx-64.so.2] ==> ignore
+          arg [--sysroot=/home/ubuntu/qnx710/target/qnx7/aarch64le/] ==> ignore
+          arg [--hash-style=gnu] ==> ignore
+          arg [--build-id=md5] ==> ignore
+          arg [--warn-shared-textrel] ==> ignore
+          arg [-zrelro] ==> ignore
+          arg [-znow] ==> ignore
+          arg [-pie] ==> ignore
+          arg [--eh-frame-hdr] ==> ignore
+          arg [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crt1.o] ==> obj [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crt1.o]
+          arg [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crti.o] ==> obj [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crti.o]
+          arg [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0//crtbegin.o] ==> obj [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0//crtbegin.o]
+          arg [CMakeFiles/cmTC_81124.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+          arg [-lsocket] ==> lib [socket]
+          arg [-o] ==> ignore
+          arg [cmTC_81124] ==> ignore
+          arg [-rpath-link] ==> ignore
+          arg [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/gcc/8.3.0:/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib] ==> ignore
+          arg [-Y/home/ubuntu/qnx710/target/qnx7/aarch64le/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib:/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib] ==> dirs [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib;/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib;/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib]
+          arg [-L/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/] ==> dir [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/]
+          arg [-L/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/gcc/8.3.0] ==> dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/gcc/8.3.0]
+          arg [-L/home/ubuntu/qnx710/target/qnx7/usr/aarch64-unknown-nto-qnx7.1.0/lib/] ==> dir [/home/ubuntu/qnx710/target/qnx7/usr/aarch64-unknown-nto-qnx7.1.0/lib/]
+          arg [-L/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/] ==> dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/]
+          arg [-L/home/ubuntu/qnx710/target/qnx7/aarch64le/lib] ==> dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib]
+          arg [-L/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib] ==> dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib]
+          arg [-L/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib] ==> dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib]
+          arg [-lstdc++] ==> lib [stdc++]
+          arg [-lm] ==> lib [m]
+          arg [-lc] ==> lib [c]
+          arg [-lcS] ==> lib [cS]
+          arg [-lgcc_s] ==> lib [gcc_s]
+          arg [-lgcc_eh] ==> lib [gcc_eh]
+          arg [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0//crtend.o] ==> obj [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0//crtend.o]
+          arg [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crtn.o] ==> obj [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crtn.o]
+        remove lib [gcc_eh]
+        collapse obj [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0//crtbegin.o] ==> [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/crtbegin.o]
+        collapse obj [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0//crtend.o] ==> [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/crtend.o]
+        collapse library dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib] ==> [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib]
+        collapse library dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib] ==> [/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib]
+        collapse library dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib] ==> [/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib]
+        collapse library dir [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/] ==> [/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0]
+        collapse library dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/gcc/8.3.0] ==> [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/gcc/8.3.0]
+        collapse library dir [/home/ubuntu/qnx710/target/qnx7/usr/aarch64-unknown-nto-qnx7.1.0/lib/] ==> [/home/ubuntu/qnx710/target/qnx7/usr/aarch64-unknown-nto-qnx7.1.0/lib]
+        collapse library dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/] ==> [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib]
+        collapse library dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib] ==> [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib]
+        collapse library dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib] ==> [/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib]
+        collapse library dir [/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib] ==> [/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib]
+        implicit libs: [socket;stdc++;m;c;cS;gcc_s]
+        implicit objs: [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crt1.o;/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crti.o;/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/crtbegin.o;/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0/crtend.o;/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/crtn.o]
+        implicit dirs: [/home/ubuntu/qnx710/target/qnx7/aarch64le/lib;/home/ubuntu/qnx710/target/qnx7/aarch64le/usr/lib;/home/ubuntu/qnx710/target/qnx7/aarch64le/opt/lib;/home/ubuntu/qnx710/host/linux/x86_64/usr/lib/gcc/aarch64-unknown-nto-qnx7.1.0/8.3.0;/home/ubuntu/qnx710/target/qnx7/aarch64le/lib/gcc/8.3.0;/home/ubuntu/qnx710/target/qnx7/usr/aarch64-unknown-nto-qnx7.1.0/lib]
+        implicit fwks: []
+      
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/FindThreads.cmake:97 (CHECK_C_SOURCE_COMPILES)"
+      - "/opt/cmake-3.28.0-rc4-linux-x86_64/share/cmake-3.28/Modules/FindThreads.cmake:163 (_threads_check_libc)"
+      - "CMakeLists.txt:16 (find_package)"
+    checks:
+      - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
+    directories:
+      source: "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-JOeGvx"
+      binary: "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-JOeGvx"
+    cmakeVariables:
+      CMAKE_CXX_COMPILER_TARGET: "gcc_ntoaarch64le_gpp"
+      CMAKE_C_COMPILER_TARGET: "gcc_ntoaarch64le_gpp"
+      CMAKE_C_FLAGS: ""
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_HAVE_LIBC_PTHREAD"
+      cached: true
+      stdout: |
+        Change Dir: '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-JOeGvx'
+        
+        Run Build Command(s): /opt/cmake-3.28.0-rc4-linux-x86_64/bin/cmake -E env VERBOSE=1 /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/make -f Makefile cmTC_d1837/fast
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/make  -f CMakeFiles/cmTC_d1837.dir/build.make CMakeFiles/cmTC_d1837.dir/build
+        make[1]: Entering directory '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-JOeGvx'
+        Building C object CMakeFiles/cmTC_d1837.dir/src.c.o
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc -Vgcc_ntoaarch64le_gpp -DCMAKE_HAVE_LIBC_PTHREAD -D_QNX_SOURCE   -Wp,-MD,CMakeFiles/cmTC_d1837.dir/src.c.o.d -Wp,-MT,CMakeFiles/cmTC_d1837.dir/src.c.o -Wp,-MF,CMakeFiles/cmTC_d1837.dir/src.c.o.d -o CMakeFiles/cmTC_d1837.dir/src.c.o -c /home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-JOeGvx/src.c
+        Linking C executable cmTC_d1837
+        /opt/cmake-3.28.0-rc4-linux-x86_64/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d1837.dir/link.txt --verbose=1
+        /home/ubuntu/qnx710/host/linux/x86_64/usr/bin/qcc -Vgcc_ntoaarch64le_gpp CMakeFiles/cmTC_d1837.dir/src.c.o -o cmTC_d1837  -lsocket 
+        make[1]: Leaving directory '/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/CMakeFiles/CMakeScratch/TryCompile-JOeGvx'
+        
+      exitCode: 0
+...

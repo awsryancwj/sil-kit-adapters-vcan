@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/opt/cmake-3.28.0-rc4-linux-x86_64/bin/cmake;-P;/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/_deps/silkit-subbuild/silkit-populate-prefix/src/silkit-populate-stamp/download-silkit-populate.cmake;COMMAND;/opt/cmake-3.28.0-rc4-linux-x86_64/bin/cmake;-P;/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/_deps/silkit-subbuild/silkit-populate-prefix/src/silkit-populate-stamp/verify-silkit-populate.cmake;COMMAND;/opt/cmake-3.28.0-rc4-linux-x86_64/bin/cmake;-P;/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/_deps/silkit-subbuild/silkit-populate-prefix/src/silkit-populate-stamp/extract-silkit-populate.cmake
+source_dir=/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/_deps/silkit-src
+work_dir=/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/_deps
+url(s)=https://github.com/vectorgrp/sil-kit/releases/download/sil-kit%2Fv4.0.36/SilKit-4.0.36-ubuntu-18.04-x86_64-gcc.zip
+hash=
+no_extract=
+

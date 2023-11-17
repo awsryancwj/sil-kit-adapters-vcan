@@ -1,0 +1,116 @@
+[
+{
+  "directory": "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/SocketCAN/Utility",
+  "command": "/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ -Vgcc_ntoaarch64le_gpp -lang-c++ -DASIO_STANDALONE=1 -D_QNX_SOURCE -I/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility -I/home/ubuntu/sil-kit-adapters-vcan/third_party/asio/asio/include  -Wc,-std=c++14 -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/Utility.dir/BufferReader.cpp.o -c /home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/BufferReader.cpp",
+  "file": "/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/BufferReader.cpp",
+  "output": "SocketCAN/Utility/CMakeFiles/Utility.dir/BufferReader.cpp.o"
+},
+{
+  "directory": "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/SocketCAN/Utility",
+  "command": "/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ -Vgcc_ntoaarch64le_gpp -lang-c++ -DASIO_STANDALONE=1 -D_QNX_SOURCE -I/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility -I/home/ubuntu/sil-kit-adapters-vcan/third_party/asio/asio/include  -Wc,-std=c++14 -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/Utility.dir/BufferWriter.cpp.o -c /home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/BufferWriter.cpp",
+  "file": "/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/BufferWriter.cpp",
+  "output": "SocketCAN/Utility/CMakeFiles/Utility.dir/BufferWriter.cpp.o"
+},
+{
+  "directory": "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/SocketCAN/Utility",
+  "command": "/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ -Vgcc_ntoaarch64le_gpp -lang-c++ -DASIO_STANDALONE=1 -D_QNX_SOURCE -I/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility -I/home/ubuntu/sil-kit-adapters-vcan/third_party/asio/asio/include  -Wc,-std=c++14 -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/Utility.dir/Enums.cpp.o -c /home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/Enums.cpp",
+  "file": "/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/Enums.cpp",
+  "output": "SocketCAN/Utility/CMakeFiles/Utility.dir/Enums.cpp.o"
+},
+{
+  "directory": "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/SocketCAN/Utility",
+  "command": "/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ -Vgcc_ntoaarch64le_gpp -lang-c++ -DASIO_STANDALONE=1 -D_QNX_SOURCE -I/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility -I/home/ubuntu/sil-kit-adapters-vcan/third_party/asio/asio/include  -Wc,-std=c++14 -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/Utility.dir/Exceptions.cpp.o -c /home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/Exceptions.cpp",
+  "file": "/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/Exceptions.cpp",
+  "output": "SocketCAN/Utility/CMakeFiles/Utility.dir/Exceptions.cpp.o"
+},
+{
+  "directory": "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/SocketCAN/Utility",
+  "command": "/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ -Vgcc_ntoaarch64le_gpp -lang-c++ -DASIO_STANDALONE=1 -D_QNX_SOURCE -I/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility -I/home/ubuntu/sil-kit-adapters-vcan/third_party/asio/asio/include  -Wc,-std=c++14 -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/Utility.dir/FormattedBuffer.cpp.o -c /home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/FormattedBuffer.cpp",
+  "file": "/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/FormattedBuffer.cpp",
+  "output": "SocketCAN/Utility/CMakeFiles/Utility.dir/FormattedBuffer.cpp.o"
+},
+{
+  "directory": "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/SocketCAN/Utility",
+  "command": "/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ -Vgcc_ntoaarch64le_gpp -lang-c++ -DASIO_STANDALONE=1 -D_QNX_SOURCE -I/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility -I/home/ubuntu/sil-kit-adapters-vcan/third_party/asio/asio/include  -Wc,-std=c++14 -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/Utility.dir/InternetChecksum.cpp.o -c /home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/InternetChecksum.cpp",
+  "file": "/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/InternetChecksum.cpp",
+  "output": "SocketCAN/Utility/CMakeFiles/Utility.dir/InternetChecksum.cpp.o"
+},
+{
+  "directory": "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/SocketCAN/Utility",
+  "command": "/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ -Vgcc_ntoaarch64le_gpp -lang-c++ -DASIO_STANDALONE=1 -D_QNX_SOURCE -I/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility -I/home/ubuntu/sil-kit-adapters-vcan/third_party/asio/asio/include  -Wc,-std=c++14 -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/Utility.dir/ParseResult.cpp.o -c /home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/ParseResult.cpp",
+  "file": "/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/ParseResult.cpp",
+  "output": "SocketCAN/Utility/CMakeFiles/Utility.dir/ParseResult.cpp.o"
+},
+{
+  "directory": "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/SocketCAN/Utility",
+  "command": "/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ -Vgcc_ntoaarch64le_gpp -lang-c++ -DASIO_STANDALONE=1 -D_QNX_SOURCE -I/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility -I/home/ubuntu/sil-kit-adapters-vcan/third_party/asio/asio/include  -Wc,-std=c++14 -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/Utility.dir/ReadUintBe.cpp.o -c /home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/ReadUintBe.cpp",
+  "file": "/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/ReadUintBe.cpp",
+  "output": "SocketCAN/Utility/CMakeFiles/Utility.dir/ReadUintBe.cpp.o"
+},
+{
+  "directory": "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/SocketCAN/Utility",
+  "command": "/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ -Vgcc_ntoaarch64le_gpp -lang-c++ -DASIO_STANDALONE=1 -D_QNX_SOURCE -I/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility -I/home/ubuntu/sil-kit-adapters-vcan/third_party/asio/asio/include  -Wc,-std=c++14 -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/Utility.dir/WriteUintBe.cpp.o -c /home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/WriteUintBe.cpp",
+  "file": "/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/WriteUintBe.cpp",
+  "output": "SocketCAN/Utility/CMakeFiles/Utility.dir/WriteUintBe.cpp.o"
+},
+{
+  "directory": "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/SocketCAN/Utility",
+  "command": "/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ -Vgcc_ntoaarch64le_gpp -lang-c++ -DASIO_STANDALONE=1 -D_QNX_SOURCE -I/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility -I/home/ubuntu/sil-kit-adapters-vcan/third_party/asio/asio/include  -Wc,-std=c++14 -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/Utility.dir/EthernetAddress.cpp.o -c /home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/EthernetAddress.cpp",
+  "file": "/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/EthernetAddress.cpp",
+  "output": "SocketCAN/Utility/CMakeFiles/Utility.dir/EthernetAddress.cpp.o"
+},
+{
+  "directory": "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/SocketCAN/Utility",
+  "command": "/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ -Vgcc_ntoaarch64le_gpp -lang-c++ -DASIO_STANDALONE=1 -D_QNX_SOURCE -I/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility -I/home/ubuntu/sil-kit-adapters-vcan/third_party/asio/asio/include  -Wc,-std=c++14 -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/Utility.dir/EthernetHeader.cpp.o -c /home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/EthernetHeader.cpp",
+  "file": "/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/EthernetHeader.cpp",
+  "output": "SocketCAN/Utility/CMakeFiles/Utility.dir/EthernetHeader.cpp.o"
+},
+{
+  "directory": "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/SocketCAN/Utility",
+  "command": "/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ -Vgcc_ntoaarch64le_gpp -lang-c++ -DASIO_STANDALONE=1 -D_QNX_SOURCE -I/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility -I/home/ubuntu/sil-kit-adapters-vcan/third_party/asio/asio/include  -Wc,-std=c++14 -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/Utility.dir/ArpIp4Packet.cpp.o -c /home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/ArpIp4Packet.cpp",
+  "file": "/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/ArpIp4Packet.cpp",
+  "output": "SocketCAN/Utility/CMakeFiles/Utility.dir/ArpIp4Packet.cpp.o"
+},
+{
+  "directory": "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/SocketCAN/Utility",
+  "command": "/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ -Vgcc_ntoaarch64le_gpp -lang-c++ -DASIO_STANDALONE=1 -D_QNX_SOURCE -I/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility -I/home/ubuntu/sil-kit-adapters-vcan/third_party/asio/asio/include  -Wc,-std=c++14 -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/Utility.dir/Ip4Address.cpp.o -c /home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/Ip4Address.cpp",
+  "file": "/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/Ip4Address.cpp",
+  "output": "SocketCAN/Utility/CMakeFiles/Utility.dir/Ip4Address.cpp.o"
+},
+{
+  "directory": "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/SocketCAN/Utility",
+  "command": "/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ -Vgcc_ntoaarch64le_gpp -lang-c++ -DASIO_STANDALONE=1 -D_QNX_SOURCE -I/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility -I/home/ubuntu/sil-kit-adapters-vcan/third_party/asio/asio/include  -Wc,-std=c++14 -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/Utility.dir/Ip4Header.cpp.o -c /home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/Ip4Header.cpp",
+  "file": "/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/Ip4Header.cpp",
+  "output": "SocketCAN/Utility/CMakeFiles/Utility.dir/Ip4Header.cpp.o"
+},
+{
+  "directory": "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/SocketCAN/Utility",
+  "command": "/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ -Vgcc_ntoaarch64le_gpp -lang-c++ -DASIO_STANDALONE=1 -D_QNX_SOURCE -I/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility -I/home/ubuntu/sil-kit-adapters-vcan/third_party/asio/asio/include  -Wc,-std=c++14 -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/Utility.dir/Icmp4Header.cpp.o -c /home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/Icmp4Header.cpp",
+  "file": "/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility/Icmp4Header.cpp",
+  "output": "SocketCAN/Utility/CMakeFiles/Utility.dir/Icmp4Header.cpp.o"
+},
+{
+  "directory": "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/SocketCAN/adapter",
+  "command": "/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ -Vgcc_ntoaarch64le_gpp -lang-c++ -DASIO_STANDALONE=1 -D_QNX_SOURCE -I/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility -I/home/ubuntu/sil-kit-adapters-vcan/third_party/asio/asio/include -Wp,-isystem,/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/_deps/silkit-src/SilKit/include  -Wc,-std=c++14 -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/SilKitAdapterSocketCAN.dir/SilKitAdapterSocketCAN.cpp.o -c /home/ubuntu/sil-kit-adapters-vcan/SocketCAN/adapter/SilKitAdapterSocketCAN.cpp",
+  "file": "/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/adapter/SilKitAdapterSocketCAN.cpp",
+  "output": "SocketCAN/adapter/CMakeFiles/SilKitAdapterSocketCAN.dir/SilKitAdapterSocketCAN.cpp.o"
+},
+{
+  "directory": "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/SocketCAN/adapter",
+  "command": "/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ -Vgcc_ntoaarch64le_gpp -lang-c++ -DASIO_STANDALONE=1 -D_QNX_SOURCE -I/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility -I/home/ubuntu/sil-kit-adapters-vcan/third_party/asio/asio/include -Wp,-isystem,/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/_deps/silkit-src/SilKit/include  -Wc,-std=c++14 -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/SilKitAdapterSocketCAN.dir/Parsing.cpp.o -c /home/ubuntu/sil-kit-adapters-vcan/SocketCAN/adapter/Parsing.cpp",
+  "file": "/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/adapter/Parsing.cpp",
+  "output": "SocketCAN/adapter/CMakeFiles/SilKitAdapterSocketCAN.dir/Parsing.cpp.o"
+},
+{
+  "directory": "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/SocketCAN/demos/EchoDevice",
+  "command": "/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ -Vgcc_ntoaarch64le_gpp -lang-c++ -DASIO_STANDALONE=1 -D_QNX_SOURCE -I/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility -I/home/ubuntu/sil-kit-adapters-vcan/third_party/asio/asio/include -Wp,-isystem,/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/_deps/silkit-src/SilKit/include  -Wc,-std=c++14 -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/SilKitDemoCanEchoDevice.dir/SilKitDemoCanEchoDevice.cpp.o -c /home/ubuntu/sil-kit-adapters-vcan/SocketCAN/demos/EchoDevice/SilKitDemoCanEchoDevice.cpp",
+  "file": "/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/demos/EchoDevice/SilKitDemoCanEchoDevice.cpp",
+  "output": "SocketCAN/demos/EchoDevice/CMakeFiles/SilKitDemoCanEchoDevice.dir/SilKitDemoCanEchoDevice.cpp.o"
+},
+{
+  "directory": "/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/SocketCAN/demos/EchoDevice",
+  "command": "/home/ubuntu/qnx710/host/linux/x86_64/usr/bin/q++ -Vgcc_ntoaarch64le_gpp -lang-c++ -DASIO_STANDALONE=1 -D_QNX_SOURCE -I/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/Utility -I/home/ubuntu/sil-kit-adapters-vcan/third_party/asio/asio/include -Wp,-isystem,/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/_deps/silkit-src/SilKit/include  -Wc,-std=c++14 -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/SilKitDemoCanEchoDevice.dir/__/__/adapter/Parsing.cpp.o -c /home/ubuntu/sil-kit-adapters-vcan/SocketCAN/adapter/Parsing.cpp",
+  "file": "/home/ubuntu/sil-kit-adapters-vcan/SocketCAN/adapter/Parsing.cpp",
+  "output": "SocketCAN/demos/EchoDevice/CMakeFiles/SilKitDemoCanEchoDevice.dir/__/__/adapter/Parsing.cpp.o"
+}
+]

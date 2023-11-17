@@ -4,6 +4,7 @@
 #include <stdio.h>
 
 #include <linux/can.h>
+//#include <hw/can.h>
 #include <linux/can/raw.h>
 #include <unistd.h>
 

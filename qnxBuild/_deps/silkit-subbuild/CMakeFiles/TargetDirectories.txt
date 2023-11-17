@@ -1,0 +1,3 @@
+/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/_deps/silkit-subbuild/CMakeFiles/silkit-populate.dir
+/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/_deps/silkit-subbuild/CMakeFiles/edit_cache.dir
+/home/ubuntu/sil-kit-adapters-vcan/qnxBuild/_deps/silkit-subbuild/CMakeFiles/rebuild_cache.dir
